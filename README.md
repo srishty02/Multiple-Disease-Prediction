@@ -122,6 +122,6 @@ This project is licensed under the MIT License.
 
 ## 🙋‍♂️ Author
 
-**Shivam Jaiswal**  
-Connect on [LinkedIn](https://www.linkedin.com/in/your-profile)  
-Email: your.email@example.com
+**Srishty Kumari** 
+Connect on [LinkedIn][((https://www.linkedin.com/in/srishty-kumari-14b56b272/) 
+Email: srishty0208@gmail.com
