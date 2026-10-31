@@ -8,13 +8,7 @@ A **Streamlit web application** that predicts the likelihood of three major dise
 
 The project includes the trained models, datasets and Jupyter notebooks used to build and evaluate each prediction model.
 
-🔗 **Live Demo:** [https://multiple-disease-prediction-web-app-yhwy.onrender.com/](https://multiple-disease-prediction-web-app-yhwy.onrender.com/) *(may take about a minute to load on the first visit)*
-
----
-
-## 📸 Screenshots
-
-<!-- Drag your app screenshots here while editing this file -->
+🔗 **Live Demo:** [https://multiple-disease-prediction-web-app-yhwy.onrender.com/](https://multiple-disease-prediction-web-app-yhwy.onrender.com/) 
 
 ---
 
